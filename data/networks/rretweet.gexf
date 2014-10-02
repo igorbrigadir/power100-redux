@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-10-01">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="6751502" label="labour">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-41.92918" y="40.355072" z="0.0"></viz:position>
+        <viz:color r="254" g="240" b="217"></viz:color>
+      </node>
+      <node id="92521829" label="mitchelloconnor">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="34.12875" y="42.983635" z="0.0"></viz:position>
+        <viz:color r="254" g="240" b="217"></viz:color>
+      </node>
+      <node id="229466877" label="campaignforleo">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="56.645893" y="-3.4940293" z="0.0"></viz:position>
+        <viz:color r="254" g="240" b="217"></viz:color>
+      </node>
+      <node id="796264" label="suzybie">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-37.710136" y="-30.49304" z="0.0"></viz:position>
+        <viz:color r="254" g="240" b="217"></viz:color>
+      </node>
+      <node id="22628924" label="sinnfeinireland">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1.8720889" y="-49.049896" z="0.0"></viz:position>
+        <viz:color r="254" g="240" b="217"></viz:color>
+      </node>
+      <node id="70205816" label="podonovan">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="69.81229" y="-28.764885" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+      <node id="26586771" label="mattcarthy">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="3.1439114" y="-73.968414" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+      <node id="84546428" label="ciaramconway">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="-29.718292" y="65.62193" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+      <node id="116422140" label="alankellylabour">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="-24.942825" y="18.03541" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+      <node id="86525980" label="electionlit">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="-59.99877" y="-42.71521" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+      <node id="327886319" label="govchiefwhip">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="28.736032" y="-9.496927" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+      <node id="36034936" label="sencaitkeane">
+        <attvalues></attvalues>
+        <viz:size value="30.0"></viz:size>
+        <viz:position x="73.08397" y="36.144436" z="0.0"></viz:position>
+        <viz:color r="179" g="0" b="0"></viz:color>
+      </node>
+      <node id="74979783" label="seansherlocktd">
+        <attvalues></attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="-69.38008" y="34.841938" z="0.0"></viz:position>
+        <viz:color r="216" g="120" b="108"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="6751502" target="84546428">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6751502" target="116422140">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6751502" target="74979783">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="92521829" target="36034936">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="229466877" target="70205816">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="229466877" target="327886319">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="229466877" target="36034936">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="796264" target="86525980">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="22628924" target="26586771">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
+
